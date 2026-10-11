@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenAI · Agentic AI · AI Agents — course repo
 
 Instructor: **Ajit Byru** · `ajitbyru@gmail.com` · github.com/byruajit
@@ -213,3 +214,6 @@ cheatsheet/python-for-agents.md
 pyproject.toml              pinned dependencies (uv sync)
 ```
 Modules are added as the course progresses (`module01/ … module14/`).
+=======
+# agent-ai-work
+>>>>>>> 7c0bb2cff575d0045c009ef6efc409f1b0271233
